@@ -13,10 +13,29 @@
 ## Curriculum
 
 > Level 1 : Arrays and Time Complexity
-Resources : 
 
+**Resources :** 
+
+*   youtube.com - [Big O Notation, Gayle Laakman McDowell](https://www.youtube.com/watch?v=v4cd1O4zkGw)
+*   web.mit.edu - [Big O notation](http://web.mit.edu/16.070/www/lecture/big_o.pdf)
+*   youtube.com - [Time and space complexity analysis of recursive programs - using factorial (https://www.youtube.com/watch?v=ncpTxqK35PI)
+*   [A very nice tutorial with examples](https://web.archive.org/web/20171215122943/http://eniac.cs.qc.cuny.edu/andrew/csci700/lecture2.pdf) 
+*   codechef.com - [Data Structure Tutorial: Array](https://discuss.codechef.com/questions/87915/data-structure-tutorial-array)
+*   cs.cmu.edu - [Arrays](https://www.cs.cmu.edu/~rjsimmon/15122-f14/lec/04-arrays.pdf)
+*   geeksforgeeks.org - [Arrays Data Structure](http://www.geeksforgeeks.org/array-data-structure/)
+
+**Problems :**
+*   codechef.com - [LECANDY](https://www.codechef.com/problems/LECANDY)
+*   codechef.com - [CNOTE](https://www.codechef.com/problems/CNOTE)
+*   codechef.com - [SALARY](https://www.codechef.com/problems/SALARY)
+*   codechef.com - [CHN15A](https://www.codechef.com/problems/CHN15A)
+*   codechef.com - [RAINBOWA](https://www.codechef.com/problems/RAINBOWA)
+*   codechef.com - [FRGTNLNG](https://www.codechef.com/problems/FRGTNLNG)
+*   codechef.com - [COPS](https://www.codechef.com/problems/COPS)
 
 > When something is important enough, you do it even if the odds are not in your favor.
+
+
 
 ### Header 3
 
