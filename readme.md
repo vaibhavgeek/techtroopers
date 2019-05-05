@@ -12,7 +12,7 @@
 
 ## Curriculum
 
-> Level 1 : Arrays and Time Complexity
+### Level 1 : Arrays and Time Complexity
 
 **Resources :** 
 
@@ -32,109 +32,38 @@
 *   codechef.com - [RAINBOWA](https://www.codechef.com/problems/RAINBOWA)
 *   codechef.com - [FRGTNLNG](https://www.codechef.com/problems/FRGTNLNG)
 *   codechef.com - [COPS](https://www.codechef.com/problems/COPS)
+*   codechef.com - [CSUB](https://www.codechef.com/problems/CSUB)
+*   codechef.com - [LAPIN](https://www.codechef.com/problems/LAPIN)
 
-> When something is important enough, you do it even if the odds are not in your favor.
+### Level 2: Greedy Algorithms 
 
+**Resources :**
+*   iarcs.org.in - [Greedy Algorithms](https://www.iarcs.org.in/inoi/online-study-material/topics/greedy.php)
+*   iarcs.org.in - [Greedy Algorithms](https://www.iarcs.org.in/inoi/online-study-material/problems/buffalos-soln.php#solution)
+*   topcoder.com - [Greedy Algorithms](https://www.topcoder.com/community/data-science/data-science-tutorials/greedy-is-good/)
+*   [Greedy Algorithms](http://jeffe.cs.illinois.edu/teaching/algorithms/notes/07-greedy.pdf)
 
+**Problems 2.a :**
 
-### Header 3
+*   codechef.com - [TACHSTCK](https://www.codechef.com/problems/TACHSTCK)
+*   codechef.com - [CIELRCPT](https://www.codechef.com/problems/CIELRCPT)
+*   codechef.com - [MAXDIFF](https://www.codechef.com/problems/MAXDIFF)
+*   codechef.com - [CHEFST](https://www.codechef.com/problems/CHEFST)
+*   codechef.com - [CAKEDOOM](https://www.codechef.com/problems/CAKEDOOM)
+*   codechef.com - [CLETAB](https://www.codechef.com/problems/CLETAB)
+*   codechef.com - [TADELIVE](https://www.codechef.com/problems/TADELIVE)
+*   codechef.com - [MANYCHEF](https://www.codechef.com/problems/MANYCHEF)
+*   codechef.com - [MMPROD](https://www.codechef.com/problems/MMPROD)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+**Problems 2.b :**
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+*   codechef.com - [CHEFTMA](https://www.codechef.com/problems/CHEFTMA)
+*   codechef.com - [STICKS](https://www.codechef.com/problems/STICKS)
+*   spoj.com - [BAISED](http://www.spoj.com/problems/BAISED/)
+*   spoj.com - [BALIFE](http://www.spoj.com/problems/BALIFE/)
+*   spoj.com - [GCJ101BB](http://www.spoj.com/problems/GCJ101BB/)
+*   codechef.com - [FGFS](https://www.codechef.com/problems/FGFS)
+*   codechef.com - [KNPSK](https://www.codechef.com/problems/KNPSK)
+*   codechef.com - [LEMUSIC](https://www.codechef.com/problems/LEMUSIC)
+*   spoj.com - [ARRANGE](http://www.spoj.com/problems/ARRANGE/)
+*   spoj.com - [FASHION](http://www.spoj.com/problems/FASHION/)
