@@ -1,13 +1,4 @@
-# DSA Summer Community
-
-## LeaderBoard
-
-| Name               | Completed Levels  | Last Week Growth % |
-|:-------------------|:------------------|:------|
-| Vaibhav Maheshwari | good swedish fish | nice  |
-| out of stock       | good and plenty   | nice  |
-| ok                 | good `oreos`      | hmm   |
-| ok                 | good `zoute` drop | yumm  |
+# Learning Data Structures and Algorithms 
 
 
 ## Curriculum
@@ -25,15 +16,20 @@
 *   geeksforgeeks.org - [Arrays Data Structure](http://www.geeksforgeeks.org/array-data-structure/)
 
 **Problems :**
-*   codechef.com - [LECANDY](https://www.codechef.com/problems/LECANDY)
-*   codechef.com - [CNOTE](https://www.codechef.com/problems/CNOTE)
-*   codechef.com - [SALARY](https://www.codechef.com/problems/SALARY)
-*   codechef.com - [CHN15A](https://www.codechef.com/problems/CHN15A)
-*   codechef.com - [RAINBOWA](https://www.codechef.com/problems/RAINBOWA)
-*   codechef.com - [FRGTNLNG](https://www.codechef.com/problems/FRGTNLNG)
-*   codechef.com - [COPS](https://www.codechef.com/problems/COPS)
-*   codechef.com - [CSUB](https://www.codechef.com/problems/CSUB)
-*   codechef.com - [LAPIN](https://www.codechef.com/problems/LAPIN)
+
+**Duration** : (3 days)
+
+| Problem            | Completed?  | 
+|:-------------------|:------------------|
+|*   codechef.com - [LECANDY](https://www.codechef.com/problems/LECANDY)| Yes|
+|*   codechef.com - [CNOTE](https://www.codechef.com/problems/CNOTE) | Yes |
+|*   codechef.com - [SALARY](https://www.codechef.com/problems/SALARY)| Yes |
+|*   codechef.com - [CHN15A](https://www.codechef.com/problems/CHN15A) | - |
+|*   codechef.com - [RAINBOWA](https://www.codechef.com/problems/RAINBOWA) | Yes |
+|*   codechef.com - [FRGTNLNG](https://www.codechef.com/problems/FRGTNLNG) | Yes |
+|*   codechef.com - [COPS](https://www.codechef.com/problems/COPS) | Yes |
+|*   codechef.com - [CSUB](https://www.codechef.com/problems/CSUB) | Yes |
+|*   codechef.com - [LAPIN](https://www.codechef.com/problems/LAPIN) |  - |
 
 ### Level 2: Greedy Algorithms 
 
@@ -45,25 +41,33 @@
 
 **Problems 2.a :**
 
-*   codechef.com - [TACHSTCK](https://www.codechef.com/problems/TACHSTCK)
-*   codechef.com - [CIELRCPT](https://www.codechef.com/problems/CIELRCPT)
-*   codechef.com - [MAXDIFF](https://www.codechef.com/problems/MAXDIFF)
-*   codechef.com - [CHEFST](https://www.codechef.com/problems/CHEFST)
-*   codechef.com - [CAKEDOOM](https://www.codechef.com/problems/CAKEDOOM)
-*   codechef.com - [CLETAB](https://www.codechef.com/problems/CLETAB)
-*   codechef.com - [TADELIVE](https://www.codechef.com/problems/TADELIVE)
-*   codechef.com - [MANYCHEF](https://www.codechef.com/problems/MANYCHEF)
-*   codechef.com - [MMPROD](https://www.codechef.com/problems/MMPROD)
+**Duration** : (3 days)
+
+| Problem            | Completed?  | 
+|:-------------------|:------------------|
+|*   codechef.com - [TACHSTCK](https://www.codechef.com/problems/TACHSTCK)| Yes |
+|*   codechef.com - [CIELRCPT](https://www.codechef.com/problems/CIELRCPT)| |
+|*   codechef.com - [MAXDIFF](https://www.codechef.com/problems/MAXDIFF)| |
+|*   codechef.com - [CHEFST](https://www.codechef.com/problems/CHEFST)| |
+|*   codechef.com - [CAKEDOOM](https://www.codechef.com/problems/CAKEDOOM)| |
+|*   codechef.com - [CLETAB](https://www.codechef.com/problems/CLETAB)| |
+|*   codechef.com - [TADELIVE](https://www.codechef.com/problems/TADELIVE)| |
+|*   codechef.com - [MANYCHEF](https://www.codechef.com/problems/MANYCHEF)| |
+|*   codechef.com - [MMPROD](https://www.codechef.com/problems/MMPROD)| |
 
 **Problems 2.b :**
 
-*   codechef.com - [CHEFTMA](https://www.codechef.com/problems/CHEFTMA)
-*   codechef.com - [STICKS](https://www.codechef.com/problems/STICKS)
-*   spoj.com - [BAISED](http://www.spoj.com/problems/BAISED/)
-*   spoj.com - [BALIFE](http://www.spoj.com/problems/BALIFE/)
-*   spoj.com - [GCJ101BB](http://www.spoj.com/problems/GCJ101BB/)
-*   codechef.com - [FGFS](https://www.codechef.com/problems/FGFS)
-*   codechef.com - [KNPSK](https://www.codechef.com/problems/KNPSK)
-*   codechef.com - [LEMUSIC](https://www.codechef.com/problems/LEMUSIC)
-*   spoj.com - [ARRANGE](http://www.spoj.com/problems/ARRANGE/)
-*   spoj.com - [FASHION](http://www.spoj.com/problems/FASHION/)
+**Duration** : (4 days)
+
+| Problem            | Completed?  | 
+|:-------------------|:------------------|
+|*   codechef.com - [CHEFTMA](https://www.codechef.com/problems/CHEFTMA) | Yes |
+|*   codechef.com - [STICKS](https://www.codechef.com/problems/STICKS) | |
+|*   spoj.com - [BAISED](http://www.spoj.com/problems/BAISED/)| |
+|*   spoj.com - [BALIFE](http://www.spoj.com/problems/BALIFE/) | |
+|*   spoj.com - [GCJ101BB](http://www.spoj.com/problems/GCJ101BB/) | |
+|*   codechef.com - [FGFS](https://www.codechef.com/problems/FGFS) | |
+|*   codechef.com - [KNPSK](https://www.codechef.com/problems/KNPSK) | |
+|*   codechef.com - [LEMUSIC](https://www.codechef.com/problems/LEMUSIC) | |
+|*   spoj.com - [ARRANGE](http://www.spoj.com/problems/ARRANGE/) | |
+|*   spoj.com - [FASHION](http://www.spoj.com/problems/FASHION/) | |
