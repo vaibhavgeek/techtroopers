@@ -46,8 +46,8 @@
 | Problem            | Completed?  | 
 |:-------------------|:------------------|
 |*   codechef.com - [TACHSTCK](https://www.codechef.com/problems/TACHSTCK)| Yes |
-|*   codechef.com - [CIELRCPT](https://www.codechef.com/problems/CIELRCPT)| |
-|*   codechef.com - [MAXDIFF](https://www.codechef.com/problems/MAXDIFF)| |
+|*   codechef.com - [CIELRCPT](https://www.codechef.com/problems/CIELRCPT)| Yes |
+|*   codechef.com - [MAXDIFF](https://www.codechef.com/problems/MAXDIFF)| Yes |
 |*   codechef.com - [CHEFST](https://www.codechef.com/problems/CHEFST)| |
 |*   codechef.com - [CAKEDOOM](https://www.codechef.com/problems/CAKEDOOM)| |
 |*   codechef.com - [CLETAB](https://www.codechef.com/problems/CLETAB)| |
