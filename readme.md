@@ -71,3 +71,48 @@
 |*   codechef.com - [LEMUSIC](https://www.codechef.com/problems/LEMUSIC) | |
 |*   spoj.com - [ARRANGE](http://www.spoj.com/problems/ARRANGE/) | |
 |*   spoj.com - [FASHION](http://www.spoj.com/problems/FASHION/) | |
+
+### Level 3: Dynamic Programming 
+
+**Resources :**
+*   medium.freecodecamp.org - [Demystifying Dynamic Programming](https://medium.freecodecamp.org/demystifying-dynamic-programming-3efafb8d4296)
+*   iarcs.org.in - [Dynamic Programming - Tiling](https://www.iarcs.org.in/inoi/online-study-material/topics/dp-tiling.php)
+*   topcoder.com - [Dynamic Programming – From Novice to Advanced](https://www.topcoder.com/community/data-science/data-science-tutorials/dynamic-programming-from-novice-to-advanced/)
+*   illinois.edu - [Dynamic Programming](http://jeffe.cs.illinois.edu/teaching/algorithms/book/03-dynprog.pdf) ;(Exercises are recommended)
+*   codechef.com - [Dynamic Programming](https://www.codechef.com/wiki/tutorial-dynamic-programming)
+*   geeksforgeeks.org - [Dynamic Programming](http://www.geeksforgeeks.org/dynamic-programming/) ;(Contains a lot of practice sessions)
+*   MIT OCW (Contains some Advanced topics as well)
+    *   [Dynamic Programming I](https://www.youtube.com/watch?v=OQ5jsbhAv_M)
+    *   [Dynamic Programming II](https://www.youtube.com/watch?v=ENyox7kNKeY)
+    *   [Dynamic Programming III](https://www.youtube.com/watch?v=ocZMDMZwhCY)
+    *   [Dynamic Programming IV](https://www.youtube.com/watch?v=tp4_UXaVyx8)
+
+**Problems 3.a :**
+
+**Duration** : (4 days)
+
+| Problem            | Completed?  | 
+|:-------------------|:------------------|
+|*  codechef.com - [ALTARAY](https://www.codechef.com/problems/ALTARAY)| Yes |
+|*  codechef.com - [DELISH](https://www.codechef.com/problems/DELISH)| Yes |
+|*  codechef.com - [DBOY](https://www.codechef.com/problems/DBOY)| Yes |
+|*  codechef.com - [XORSUB](https://www.codechef.com/problems/XORSUB)| |
+|*  codechef.com - [CAKEDOOM](https://www.codechef.com/problems/CAKEDOOM)| |
+|*  codechef.com - [GRID](https://www.codechef.com/problems/GRID)| |
+|*  codechef.com - [TADELIVE](https://www.codechef.com/problems/TADELIVE)| |
+|*  codechef.com - [FROGV](https://www.codechef.com/problems/FROGV)| |
+
+**Problems 3.b :**
+
+**Duration** : (4 days)
+
+| Problem            | Completed?  | 
+|:-------------------|:------------------|
+|*   codechef.com - [MATRIX2](https://www.codechef.com/problems/MATRIX2) | Yes |
+|*   codechef.com - [AMSGAME2](https://www.codechef.com/problems/AMSGAME2) | |
+|*   spoj.com - [MDOLLS](http://www.spoj.com/problems/MDOLLS/) | |
+|*   spoj.com - [MSTICK](http://www.spoj.com/problems/MSTICK/) | |
+|*   spoj.com - [MCARDS](http://www.spoj.com/problems/MCARDS/) | |
+|*   spoj.com - [MIXTURES](http://www.spoj.com/problems/MIXTURES/) | |
+|*   spoj.com - [SAMER08D](https://www.spoj.pl/problems/SAMER08D/) | |
+|*   spoj.com - [AIBOHP](https://www.spoj.pl/problems/AIBOHP/)  | |
